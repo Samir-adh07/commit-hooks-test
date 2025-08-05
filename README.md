@@ -129,7 +129,7 @@ jobs:
 ```
 
 Read more about [terraform-docs GitHub Action] and its configuration and
-examples.
+examples.sdfss
 
 ### pre-commit hook
 
